@@ -1,0 +1,23 @@
+reset all
+push <last-entry>
+
+set ssl_starttls=no
+set ssl_force_tls=no
+
+source ~/mutt/mutt.general
+source ~/mutt/mutt.imap
+source ~/mutt/mutt.mailboxes
+source ~/mutt/mutt.headers
+source ~/mutt/mutt.bind
+source ~/mutt/mutt.hook
+source ~/mutt/mutt.score
+source ~/mutt/mutt.autoview
+source ~/mutt/mutt.color
+source ~/mutt/mutt.aliases
+source ~/mutt/mutt.mlists
+source ~/mutt/mutt.ssl
+source ~/mutt/mutt.otherpatches
+source ~/mutt/mutt.smtp
+source ~/mutt/mutt.pager
+source ~/mutt/mutt.smime
+

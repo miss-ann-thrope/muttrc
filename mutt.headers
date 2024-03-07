@@ -1,0 +1,6 @@
+unmy_hdr *
+set hdrs
+ignore *
+unignore From To Date Subject Cc Reply-To User-Agent
+hdr_order Date: From: To: Subject: *
+

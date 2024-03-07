@@ -1,0 +1,7 @@
+unset imap_authenticators
+set imap_delim_chars="/."
+set imap_keepalive=600
+set spoolfile="imap://ME@SERVIDOR/INBOX"
+set record="=Sent"
+set postponed="=Drafts"
+

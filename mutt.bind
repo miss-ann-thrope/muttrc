@@ -1,0 +1,7 @@
+bind    index   <up>    previous-entry
+bind    index   <down>  next-entry
+bind    index   <delete> delete-message
+bind editor    "\e<delete>"    kill-word
+bind editor    "\e<backspace>" kill-word
+bind editor     <delete>       delete-char
+macro index \eb '/~b ' 'search in message bodies'

@@ -1,0 +1,9 @@
+set sidebar_visible="no"
+set sidebar_width=30
+set sidebar_delim='|'
+set sidebar_sort="yes"
+set sidebar_shortpath="no"
+color sidebar_new red black
+set sidebar_shortpath
+set sidebar_sort
+

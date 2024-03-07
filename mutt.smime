@@ -1,0 +1,5 @@
+set smime_is_default
+unset smime_decrypt_use_default_key
+set smime_pk7out_command="openssl smime -verify -in %f -noverify -pk7out"
+set smime_encrypt_with="des3"
+set smime_encrypt_command="openssl smime -encrypt -%a -outform DER -in %f %c"

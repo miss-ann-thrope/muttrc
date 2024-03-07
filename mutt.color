@@ -1,0 +1,10 @@
+color normal     white          black           # Index screen
+color indicator  brightyellow   red             # Actual message
+color tree       red            black           # Tree
+color status     brightgreen    blue            # State
+color error      brightyellow   brightred       # Error
+color message    red            black         # Messages
+color signature  brightblue     black           # Signature
+color attachment brightyellow   blue            # MIME attachments
+color search     brightyellow   red             # Search
+color tilde      brightgreen    black           # Tildes at the end

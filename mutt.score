@@ -1,0 +1,6 @@
+unscore *
+unset score
+set score_threshold_delete=-1
+set score_threshold_flag=9999
+set score_threshold_read=-1
+

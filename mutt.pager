@@ -1,0 +1,5 @@
+macro pager \e0 ":set pager_index_lines=0\n" 'Windowsize 1'
+macro pager \e1 ":set pager_index_lines=10\n" 'Windowsize 2'
+macro pager \e2 ":set pager_index_lines=20\n" 'Windowsize 2'
+macro pager \e3 ":set pager_index_lines=30\n" 'Windowsize 3'
+

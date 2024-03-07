@@ -1,0 +1,2 @@
+set ssl_starttls
+set ssl_use_tlsv1_2

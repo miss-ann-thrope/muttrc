@@ -1,0 +1,13 @@
+unhook *
+charset-hook US-ASCII     ISO-8859-1
+charset-hook x-unknown    ISO-8859-1
+save-hook '~f rui_roma@sapo.pt' =Tertulia
+save-hook '~f vase26@sapo.pt'   =Tertulia
+save-hook '~f balli29@sapo.pt'  =Tertulia
+save-hook '~f gerb34@sapo.pt'   =Tertulia
+save-hook '~f operacaoruka@sapo.pt' =Trabalho
+save-hook '~f macro75@sapo.pt' =Trabalho
+save-hook '~f cadus85@sapo.pt'  =Grang
+save-hook '~f teste502@sapo.pt' =WTF
+save-hook '~f dabba78@sapo.pt'  =WTF
+

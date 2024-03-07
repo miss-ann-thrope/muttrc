@@ -1,0 +1,6 @@
+unset inews
+unset nntp_user
+unset nntp_pass
+unset show_only_unread
+unset x_comment_to
+
